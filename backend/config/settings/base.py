@@ -24,6 +24,7 @@ BASE_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "django.contrib.postgres",
+    "modeltranslation",
 ]
 THIRD_PARTY_APPS = [
     "rest_framework",
